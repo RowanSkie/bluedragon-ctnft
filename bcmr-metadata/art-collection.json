@@ -6,17 +6,17 @@
     "name": "BlueDragon CashToken NFTs Registry",
     "description": "BCMR Registry for BlueDragon CashToken NFTs by RowanSkie (@RowanSkie).",
     "uris": {
-      "icon": "https://github.com/RowanSkie/bluedragon-ctnft/blob/3b34343ba094cab5542445f2a68335646c3d5e51/assets/icons/collection-icon/icon.png",
+      "icon": "https://raw.githubusercontent.com/RowanSkie/bluedragon-ctnft/3b34343ba094cab5542445f2a68335646c3d5e51/assets/icons/collection-icon/icon.png",
       "web": "https://github.com/RowanSkie/bluedragon-ctnft"
     }
   },
   "identities": {
-    "a4a88f8202bc88c8819b0beee3e1525ff6557f4160b25961556c2209745702d3": {
+    "c7f15a09ece5f23e7679f200517fc7caf4068e2133cd9d95eb5263b18cb31676": {
       "2023-01-13T00:00:00.000Z": {
         "name": "BlueDragon CashToken NFTs",
         "description": "This is a set of NFTs featuring RowanSkie's dragonsona.",
         "token": {
-          "category": "a4a88f8202bc88c8819b0beee3e1525ff6557f4160b25961556c2209745702d3",
+          "category": "c7f15a09ece5f23e7679f200517fc7caf4068e2133cd9d95eb5263b18cb31676",
           "symbol": "BDC",
           "nfts": {
             "parse": {
