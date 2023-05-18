@@ -1,2 +1,2 @@
 # bluedragon-ctnft
-BMCR repository for BlueDragon NFTs
+BCMR repository for BlueDragon NFTs
