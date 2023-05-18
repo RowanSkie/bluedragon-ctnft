@@ -6,7 +6,7 @@
     "name": "BlueDragon CashToken NFTs Registry",
     "description": "BCMR Registry for BlueDragon CashToken NFTs by RowanSkie (@RowanSkie).",
     "uris": {
-      "icon": "https://raw.githubusercontent.com/RowanSkie/bluedragon-ctnft/main/assets/icons/collection-icon/icon.png",
+      "icon": "ipfs://QmPyMVJaH6bgdWUZrxou1hmfoC1o6Q1tgqxmPsXfMhTa2n",
       "web": "https://github.com/RowanSkie/bluedragon-ctnft",
       "registry": "https://raw.githubusercontent.com/RowanSkie/bluedragon-ctnft/main/bcmr-metadata/art-collection.json"
     }
@@ -14,7 +14,7 @@
   "identities": {
     "c7f15a09ece5f23e7679f200517fc7caf4068e2133cd9d95eb5263b18cb31676": {
       "2023-05-18T00:00:00.000Z": {
-        "name": "BlueDragon CashToken NFTs",
+        "name": "BlueDragon CashToken NFT",
         "description": "This is a set of NFTs featuring RowanSkie's dragonsona.",
         "token": {
           "category": "c7f15a09ece5f23e7679f200517fc7caf4068e2133cd9d95eb5263b18cb31676",
@@ -25,83 +25,88 @@
                 "": {
                   "name": "BlueDragon NFT",
                   "uris": {
-                    "icon": "https://raw.githubusercontent.com/RowanSkie/bluedragon-ctnft/main/assets/icons/assets-icon/0.png",
-                    "image": "https://raw.githubusercontent.com/RowanSkie/bluedragon-ctnft/main/assets/assets/0.png"
+                    "icon": "ipfs://QmWwnU4qM87MrKiB7em8WK9wHQ9eTxj62AQSujnNoNZ3R2",
+                    "image": "ipfs://QmYbqqxTZ9bR79RQ9AJueQ55NCCpAXkGPvDJDvCBCDCwJs"
                   }
                 },
                 "01": {
                   "name": "BlueDragon #1",
                   "uris": {
-                    "icon": "https://raw.githubusercontent.com/RowanSkie/bluedragon-ctnft/main/assets/icons/assets-icon/1.png",
-                    "image": "https://raw.githubusercontent.com/RowanSkie/bluedragon-ctnft/main/assets/assets/1.png"
+                    "icon": "ipfs://QmZ3L7Z2kvZ1whXoKDV4oTpGxeL634NcZwfpkkV4CVMRfk",
+                    "image": "hipfs://QmWMZ3iJdU5p2PYMtpz2Pyvc5cNrkD7sctsVMTQAcHJd9L"
                   }
                 },
                 "02": {
                   "name": "BlueDragon #2",
                   "uris": {
-                    "icon": "https://raw.githubusercontent.com/RowanSkie/bluedragon-ctnft/main/assets/icons/assets-icon/2.png",
-                    "image": "https://raw.githubusercontent.com/RowanSkie/bluedragon-ctnft/main/assets/assets/2.png"
+                    "icon": "ipfs://Qmdea4XHKLUxxsQ4aQKEUch7eT2h5tQubW4zxJanPTemLp",
+                    "image": "ipfs://QmNfPvLMbLNNFbnP29BBamf5gKU2a4bd1xCiL3sFaJU2Xx"
                   }
                 },
                 "03": {
                   "name": "BlueDragon #3",
                   "uris": {
-                    "icon": "https://raw.githubusercontent.com/RowanSkie/bluedragon-ctnft/main/assets/icons/assets-icon/3.png",
-                    "image": "https://raw.githubusercontent.com/RowanSkie/bluedragon-ctnft/main/assets/assets/3.png"
+                    "icon": "ipfs://Qmc7wW4iKFVzWQHjoNTLdKCweeJvPq1kihdp9AmKMYAkjA",
+                    "image": "ipfs://QmYoPe7JPuhDg815bdpqtfTftLbE37mYZP2auFqAsoEppk"
                   }
                 },
                 "04": {
                   "name": "BlueDragon #4",
                   "uris": {
-                    "icon": "https://raw.githubusercontent.com/RowanSkie/bluedragon-ctnft/main/assets/icons/assets-icon/4.png",
-                    "image": "https://raw.githubusercontent.com/RowanSkie/bluedragon-ctnft/main/assets/assets/4.png"
+                    "icon": "ipfs://QmNmf4TzdDqzciPJmEHS4yG8AZ5CrQtBtukVPCTcTAQmQR",
+                    "image": "ipfs://QmdQPLtt6g4BpjZ6AsEKgpTyDjB9QwewpUsHFsP4fZHr99"
                   }
                 },
                 "05": {
                   "name": "BlueDragon #5",
                   "uris": {
-                    "icon": "https://raw.githubusercontent.com/RowanSkie/bluedragon-ctnft/main/assets/icons/assets-icon/5.png",
-                    "image": "https://raw.githubusercontent.com/RowanSkie/bluedragon-ctnft/main/assets/assets/5.png"
+                    "icon": "ipfs://QmbYkcDZa7dbLnSAG5BKvPAUKibtUN4Un3tXKgHKFF697s",
+                    "image": "ipfs://QmWr6SVh4jNu7XGPTA8ZcABrYetmSdQEmuv1FfUDGynrGv"
                   }
                 },
                 "06": {
                   "name": "BlueDragon #6",
                   "uris": {
-                    "icon": "https://raw.githubusercontent.com/RowanSkie/bluedragon-ctnft/main/assets/icons/assets-icon/6.png",
-                    "image": "https://raw.githubusercontent.com/RowanSkie/bluedragon-ctnft/main/assets/assets/6.png"
+                    "icon": "ipfs://QmUvSr788c6CMbPKwVFRhq7K3sbcoQiAhtmXE548vt7xGT",
+                    "image": "ipfs://QmViX4qxEdU3KDbxZiMtLw1NGdQPFF9sr8edSJDUHNsen1"
                   }
                 },
                 "07": {
                   "name": "BlueDragon #7",
                   "uris": {
-                    "icon": "https://raw.githubusercontent.com/RowanSkie/bluedragon-ctnft/main/assets/icons/assets-icon/7.png",
-                    "image": "https://raw.githubusercontent.com/RowanSkie/bluedragon-ctnft/main/assets/assets/7.png"
+                    "icon": "ipfs://QmQGq1ciVmsd6ZUX2Q7VikkwsJCihrn2hTULMrWVie6N4S",
+                    "image": "ipfs://QmNWV1sHpi39i6byj7rYR7WUanje5sBZahUpaeu6Mc8VP2"
                   }
                 },
                 "08": {
                   "name": "BlueDragon #8",
                   "uris": {
-                    "icon": "https://raw.githubusercontent.com/RowanSkie/bluedragon-ctnft/main/assets/icons/assets-icon/8.png",
-                    "image": "https://raw.githubusercontent.com/RowanSkie/bluedragon-ctnft/main/assets/assets/8.png"
+                    "icon": "ipfs://QmT3BKB6AHPtNxn792yYLDcXcrudkuqk98MGz5Bdh3zqFF",
+                    "image": "ipfs://QmW4mt7WaqZmBdszTfSSXYki3arxvE1QubydGoRUBJW6hM"
                   }
                 },
                 "09": {
                   "name": "BlueDragon #9",
                   "uris": {
-                    "icon": "https://raw.githubusercontent.com/RowanSkie/bluedragon-ctnft/main/assets/icons/assets-icon/9.png",
-                    "image": "https://raw.githubusercontent.com/RowanSkie/bluedragon-ctnft/main/assets/assets/9.png"
+                    "icon": "ipfs://QmSSvpnM3qas3eDcvJbMhyY6bmoD4fRJqt6UR7fsQ9upZg",
+                    "image": "ipfs://QmTKLRmT3XquB5Lnu9vGiqwzoR5jCWT5ucnSEajNkFXfqB"
                   }
                 },
                 "10": {
                   "name": "BlueDragon #10",
                   "uris": {
-                    "icon": "https://raw.githubusercontent.com/RowanSkie/bluedragon-ctnft/main/assets/icons/assets-icon/10.png",
-                    "image": "https://raw.githubusercontent.com/RowanSkie/bluedragon-ctnft/main/assets/assets/10.png"
+                    "icon": "ipfs://QmYv2V1YnYD1LJj8a24PVfZdmTEnbBksGSvscNxYVLidn7",
+                    "image": "ipfs://QmdxjRtUYMvokownYp2JNwesd3YD3VjGJ5ma37pAGa3dsK"
                   }
                 }
               }
             }
           }
+        },
+        "uris": {
+          "icon": "ipfs://QmPyMVJaH6bgdWUZrxou1hmfoC1o6Q1tgqxmPsXfMhTa2n",
+          "web": "https://github.com/RowanSkie/bluedragon-ctnft",
+          "registry": "https://raw.githubusercontent.com/RowanSkie/bluedragon-ctnft/main/bcmr-metadata/art-collection.json"
         }
       }
     }
