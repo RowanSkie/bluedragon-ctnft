@@ -7,7 +7,8 @@
     "description": "BCMR Registry for BlueDragon CashToken NFTs by RowanSkie (@RowanSkie).",
     "uris": {
       "icon": "https://raw.githubusercontent.com/RowanSkie/bluedragon-ctnft/main/assets/icons/collection-icon/icon.png",
-      "web": "https://github.com/RowanSkie/bluedragon-ctnft"
+      "web": "https://github.com/RowanSkie/bluedragon-ctnft",
+      "registry": "https://raw.githubusercontent.com/RowanSkie/bluedragon-ctnft/main/bcmr-metadata/art-collection.json"
     }
   },
   "identities": {
