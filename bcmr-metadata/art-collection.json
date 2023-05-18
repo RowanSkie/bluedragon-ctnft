@@ -6,7 +6,7 @@
     "name": "BlueDragon CashToken NFTs Registry",
     "description": "BCMR Registry for BlueDragon CashToken NFTs by RowanSkie (@RowanSkie).",
     "uris": {
-      "icon": "https://raw.githubusercontent.com/RowanSkie/bluedragon-ctnft/3b34343ba094cab5542445f2a68335646c3d5e51/assets/icons/collection-icon/icon.png",
+      "icon": "https://raw.githubusercontent.com/RowanSkie/bluedragon-ctnft/main/assets/icons/collection-icon/icon.png",
       "web": "https://github.com/RowanSkie/bluedragon-ctnft"
     }
   },
@@ -22,69 +22,80 @@
             "parse": {
               "types": {
                 "": {
-                  "name": "BlueDragon #0",
+                  "name": "BlueDragon NFT",
                   "uris": {
-                    "image": "https://raw.githubusercontent.com/RowanSkie/bluedragon-ctnft/c0e481284e9b169570e20f2ca7e101d8f5de5cff/assets/assets/0.png"
+                    "icon": "https://raw.githubusercontent.com/RowanSkie/bluedragon-ctnft/main/assets/icons/assets-icon/0.png",
+                    "image": "https://raw.githubusercontent.com/RowanSkie/bluedragon-ctnft/main/assets/assets/0.png"
                   }
                 },
                 "01": {
                   "name": "BlueDragon #1",
                   "uris": {
-                    "image": "https://raw.githubusercontent.com/RowanSkie/bluedragon-ctnft/c0e481284e9b169570e20f2ca7e101d8f5de5cff/assets/assets/1.png"
+                    "icon": "https://raw.githubusercontent.com/RowanSkie/bluedragon-ctnft/main/assets/icons/assets-icon/1.png",
+                    "image": "https://raw.githubusercontent.com/RowanSkie/bluedragon-ctnft/main/assets/assets/1.png"
                   }
                 },
                 "02": {
                   "name": "BlueDragon #2",
                   "uris": {
-                    "image": "https://raw.githubusercontent.com/RowanSkie/bluedragon-ctnft/c0e481284e9b169570e20f2ca7e101d8f5de5cff/assets/assets/2.png"
+                    "icon": "https://raw.githubusercontent.com/RowanSkie/bluedragon-ctnft/main/assets/icons/assets-icon/2.png",
+                    "image": "https://raw.githubusercontent.com/RowanSkie/bluedragon-ctnft/main/assets/assets/2.png"
                   }
                 },
                 "03": {
                   "name": "BlueDragon #3",
                   "uris": {
-                    "image": "https://raw.githubusercontent.com/RowanSkie/bluedragon-ctnft/c0e481284e9b169570e20f2ca7e101d8f5de5cff/assets/assets/3.png"
+                    "icon": "https://raw.githubusercontent.com/RowanSkie/bluedragon-ctnft/main/assets/icons/assets-icon/3.png",
+                    "image": "https://raw.githubusercontent.com/RowanSkie/bluedragon-ctnft/main/assets/assets/3.png"
                   }
                 },
                 "04": {
                   "name": "BlueDragon #4",
                   "uris": {
-                    "image": "https://raw.githubusercontent.com/RowanSkie/bluedragon-ctnft/c0e481284e9b169570e20f2ca7e101d8f5de5cff/assets/assets/4.png"
+                    "icon": "https://raw.githubusercontent.com/RowanSkie/bluedragon-ctnft/main/assets/icons/assets-icon/4.png",
+                    "image": "https://raw.githubusercontent.com/RowanSkie/bluedragon-ctnft/main/assets/assets/4.png"
                   }
                 },
                 "05": {
                   "name": "BlueDragon #5",
                   "uris": {
-                    "image": "https://raw.githubusercontent.com/RowanSkie/bluedragon-ctnft/c0e481284e9b169570e20f2ca7e101d8f5de5cff/assets/assets/5.png"
+                    "icon": "https://raw.githubusercontent.com/RowanSkie/bluedragon-ctnft/main/assets/icons/assets-icon/5.png",
+                    "image": "https://raw.githubusercontent.com/RowanSkie/bluedragon-ctnft/main/assets/assets/5.png"
                   }
                 },
                 "06": {
                   "name": "BlueDragon #6",
                   "uris": {
-                    "image": "https://raw.githubusercontent.com/RowanSkie/bluedragon-ctnft/c0e481284e9b169570e20f2ca7e101d8f5de5cff/assets/assets/6.png"
+                    "icon": "https://raw.githubusercontent.com/RowanSkie/bluedragon-ctnft/main/assets/icons/assets-icon/6.png",
+                    "image": "https://raw.githubusercontent.com/RowanSkie/bluedragon-ctnft/main/assets/assets/6.png"
                   }
                 },
                 "07": {
                   "name": "BlueDragon #7",
                   "uris": {
-                    "image": "https://raw.githubusercontent.com/RowanSkie/bluedragon-ctnft/c0e481284e9b169570e20f2ca7e101d8f5de5cff/assets/assets/7.png"
+                    "icon": "https://raw.githubusercontent.com/RowanSkie/bluedragon-ctnft/main/assets/icons/assets-icon/7.png",
+                    "image": "https://raw.githubusercontent.com/RowanSkie/bluedragon-ctnft/main/assets/assets/7.png"
                   }
                 },
                 "08": {
                   "name": "BlueDragon #8",
                   "uris": {
-                    "image": "https://raw.githubusercontent.com/RowanSkie/bluedragon-ctnft/c0e481284e9b169570e20f2ca7e101d8f5de5cff/assets/assets/8.png"
+                    "icon": "https://raw.githubusercontent.com/RowanSkie/bluedragon-ctnft/main/assets/icons/assets-icon/8.png",
+                    "image": "https://raw.githubusercontent.com/RowanSkie/bluedragon-ctnft/main/assets/assets/8.png"
                   }
                 },
                 "09": {
                   "name": "BlueDragon #9",
                   "uris": {
-                    "image": "https://raw.githubusercontent.com/RowanSkie/bluedragon-ctnft/c0e481284e9b169570e20f2ca7e101d8f5de5cff/assets/assets/9.png"
+                    "icon": "https://raw.githubusercontent.com/RowanSkie/bluedragon-ctnft/main/assets/icons/assets-icon/9.png",
+                    "image": "https://raw.githubusercontent.com/RowanSkie/bluedragon-ctnft/main/assets/assets/9.png"
                   }
                 },
                 "10": {
                   "name": "BlueDragon #10",
                   "uris": {
-                    "image": "https://raw.githubusercontent.com/RowanSkie/bluedragon-ctnft/c0e481284e9b169570e20f2ca7e101d8f5de5cff/assets/assets/10.png"
+                    "icon": "https://raw.githubusercontent.com/RowanSkie/bluedragon-ctnft/main/assets/icons/assets-icon/10.png",
+                    "image": "https://raw.githubusercontent.com/RowanSkie/bluedragon-ctnft/main/assets/assets/10.png"
                   }
                 }
               }
