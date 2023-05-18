@@ -23,77 +23,77 @@
             "parse": {
               "types": {
                 "": {
-                  "name": "BlueDragon NFT",
+                  "name": "BlueDragon Type 0",
                   "uris": {
                     "icon": "ipfs://QmWwnU4qM87MrKiB7em8WK9wHQ9eTxj62AQSujnNoNZ3R2",
                     "image": "ipfs://QmYbqqxTZ9bR79RQ9AJueQ55NCCpAXkGPvDJDvCBCDCwJs"
                   }
                 },
                 "01": {
-                  "name": "BlueDragon #1",
+                  "name": "BlueDragon Type 1",
                   "uris": {
                     "icon": "ipfs://QmZ3L7Z2kvZ1whXoKDV4oTpGxeL634NcZwfpkkV4CVMRfk",
                     "image": "hipfs://QmWMZ3iJdU5p2PYMtpz2Pyvc5cNrkD7sctsVMTQAcHJd9L"
                   }
                 },
                 "02": {
-                  "name": "BlueDragon #2",
+                  "name": "BlueDragon Type 2",
                   "uris": {
                     "icon": "ipfs://Qmdea4XHKLUxxsQ4aQKEUch7eT2h5tQubW4zxJanPTemLp",
                     "image": "ipfs://QmNfPvLMbLNNFbnP29BBamf5gKU2a4bd1xCiL3sFaJU2Xx"
                   }
                 },
                 "03": {
-                  "name": "BlueDragon #3",
+                  "name": "BlueDragon Type 3",
                   "uris": {
                     "icon": "ipfs://Qmc7wW4iKFVzWQHjoNTLdKCweeJvPq1kihdp9AmKMYAkjA",
                     "image": "ipfs://QmYoPe7JPuhDg815bdpqtfTftLbE37mYZP2auFqAsoEppk"
                   }
                 },
                 "04": {
-                  "name": "BlueDragon #4",
+                  "name": "BlueDragon Type 4",
                   "uris": {
                     "icon": "ipfs://QmNmf4TzdDqzciPJmEHS4yG8AZ5CrQtBtukVPCTcTAQmQR",
                     "image": "ipfs://QmdQPLtt6g4BpjZ6AsEKgpTyDjB9QwewpUsHFsP4fZHr99"
                   }
                 },
                 "05": {
-                  "name": "BlueDragon #5",
+                  "name": "BlueDragon Type 5",
                   "uris": {
                     "icon": "ipfs://QmbYkcDZa7dbLnSAG5BKvPAUKibtUN4Un3tXKgHKFF697s",
                     "image": "ipfs://QmWr6SVh4jNu7XGPTA8ZcABrYetmSdQEmuv1FfUDGynrGv"
                   }
                 },
                 "06": {
-                  "name": "BlueDragon #6",
+                  "name": "BlueDragon Type 6",
                   "uris": {
                     "icon": "ipfs://QmUvSr788c6CMbPKwVFRhq7K3sbcoQiAhtmXE548vt7xGT",
                     "image": "ipfs://QmViX4qxEdU3KDbxZiMtLw1NGdQPFF9sr8edSJDUHNsen1"
                   }
                 },
                 "07": {
-                  "name": "BlueDragon #7",
+                  "name": "BlueDragon Type 7",
                   "uris": {
                     "icon": "ipfs://QmQGq1ciVmsd6ZUX2Q7VikkwsJCihrn2hTULMrWVie6N4S",
                     "image": "ipfs://QmNWV1sHpi39i6byj7rYR7WUanje5sBZahUpaeu6Mc8VP2"
                   }
                 },
                 "08": {
-                  "name": "BlueDragon #8",
+                  "name": "BlueDragon Type 8",
                   "uris": {
                     "icon": "ipfs://QmT3BKB6AHPtNxn792yYLDcXcrudkuqk98MGz5Bdh3zqFF",
                     "image": "ipfs://QmW4mt7WaqZmBdszTfSSXYki3arxvE1QubydGoRUBJW6hM"
                   }
                 },
                 "09": {
-                  "name": "BlueDragon #9",
+                  "name": "BlueDragon Type 9",
                   "uris": {
                     "icon": "ipfs://QmSSvpnM3qas3eDcvJbMhyY6bmoD4fRJqt6UR7fsQ9upZg",
                     "image": "ipfs://QmTKLRmT3XquB5Lnu9vGiqwzoR5jCWT5ucnSEajNkFXfqB"
                   }
                 },
                 "10": {
-                  "name": "BlueDragon #10",
+                  "name": "BlueDragon Type 10",
                   "uris": {
                     "icon": "ipfs://QmYv2V1YnYD1LJj8a24PVfZdmTEnbBksGSvscNxYVLidn7",
                     "image": "ipfs://QmdxjRtUYMvokownYp2JNwesd3YD3VjGJ5ma37pAGa3dsK"
