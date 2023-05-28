@@ -12,12 +12,12 @@
     }
   },
   "identities": {
-    "c7f15a09ece5f23e7679f200517fc7caf4068e2133cd9d95eb5263b18cb31676": {
+    "5ba789d817996eed3e74f432f6c4a1e3d604b76ebd5f85f15217bdc0af11a7c2": {
       "2023-05-18T00:00:00.000Z": {
         "name": "BlueDragon CashToken NFT",
         "description": "This is a set of NFTs featuring RowanSkie's dragonsona.",
         "token": {
-          "category": "c7f15a09ece5f23e7679f200517fc7caf4068e2133cd9d95eb5263b18cb31676",
+          "category": "5ba789d817996eed3e74f432f6c4a1e3d604b76ebd5f85f15217bdc0af11a7c2",
           "symbol": "BCN",
           "nfts": {
             "parse": {
